@@ -20,8 +20,8 @@ displaying ontological knowledge in a knowledge graph.
 
    connected to terms from the SUMO ontology.
    For example, `CFPNC_2026` is an `instance` of the SUMO term `FootballUS`, which is a `subclass`
-   of `TeamSport`, which is a subclass of `Sport`, etc., which is a subclass of `Entity` (you must
-   fill in "etc.").
+   of `TeamSport`, which is a subclass of `Sport`, etc., which is a subclass of `Physical` 
+   which is a subclass `Entity` (you must fill in "etc.").
    The knowledge you must capture is:
    - `Miami_Hurricanes` lost `CFPNC_2026`
    - `Indiana_Hoosiers` won `CFPNC_2026`
